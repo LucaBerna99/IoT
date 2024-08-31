@@ -1,0 +1,12 @@
+const char *pub_topic = "arduini/home/livingroom/Sensors Connection";
+const char *humidity_topic = "arduini/home/livingroom/Humidity";
+const char *temperature_topic = "arduini/home/livingroom/Temperature";
+const char *brightness_topic = "arduini/home/livingroom/Brightness";
+const char *human_presence_topic = "arduini/home/livingroom/Human Presence";
+const char *error_topic = "arduini/home/livingroom/ERROR";
+const char *willTopic = "arduini/home/livingroom/Sensors Connection";
+const char *j_topic = "arduini/home/livingroom/LoopsCounter";
+int willQoS = 2;
+bool willRetain = 1;
+const char *willMessage = "Sensors sleeping ...ZzZ...";
+bool cleanSession = 0;

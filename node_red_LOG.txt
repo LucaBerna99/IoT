@@ -1,0 +1,28 @@
+]2;root@raspberrypi: Node-RED log
+ 
+27 Aug 11:50:43 - [info] [function:lr_connection] Received status: Sensors sleeping ...ZzZ...
+27 Aug 11:50:45 - [info] [function:ThingSpeak Payload] channels/1813859/publish --> field1=28&field2=44&field3=100&field4=100&field5=50&field6=42&field7=0&status=MQTTPUBLISH
+27 Aug 11:51:05 - [info] [function:Power consumption] Calculated: 0
+27 Aug 11:51:15 - [info] [function:ThingSpeak Payload] channels/1813859/publish --> field1=28&field2=44&field3=100&field4=100&field5=50&field6=42&field7=0&status=MQTTPUBLISH
+27 Aug 11:51:19 - [info] [function:lr_connection] Received status: Sensors connected
+27 Aug 11:51:19 - [info] [function:lr_humanPresence] Received[(0)No_pres, (1)pres]: 0
+27 Aug 11:51:19 - [info] [function:lr_humidity] Received status: 45%
+27 Aug 11:51:35 - [info] [function:Power consumption] Calculated: 0
+27 Aug 11:51:43 - [info] [function:lr_connection] Received status: Sensors sleeping ...ZzZ...
+27 Aug 11:51:45 - [info] [function:ThingSpeak Payload] channels/1813859/publish --> field1=28&field2=44&field3=100&field4=100&field5=50&field6=42&field7=0&status=MQTTPUBLISH
+27 Aug 11:52:05 - [info] [function:Power consumption] Calculated: 0
+27 Aug 11:52:15 - [info] [function:ThingSpeak Payload] channels/1813859/publish --> field1=28&field2=44&field3=100&field4=100&field5=50&field6=42&field7=0&status=MQTTPUBLISH
+27 Aug 11:52:19 - [info] [function:lr_connection] Received status: Sensors connected
+27 Aug 11:52:19 - [info] [function:lr_humanPresence] Received[(0)No_pres, (1)pres]: 0
+27 Aug 11:52:35 - [info] [function:Power consumption] Calculated: 0
+27 Aug 11:52:43 - [info] [function:lr_connection] Received status: Sensors sleeping ...ZzZ...
+27 Aug 11:52:45 - [info] [function:ThingSpeak Payload] channels/1813859/publish --> field1=28&field2=44&field3=100&field4=100&field5=50&field6=42&field7=0&status=MQTTPUBLISH
+27 Aug 11:52:48 - [info] [function:info message] Command: /start requested by j4rj4r61nk5
+27 Aug 11:52:55 - [info] [function:is Admin?] Command: /command requested by j4rj4r61nk5
+27 Aug 11:52:55 - [info] [function:is Admin?] ADMIN
+27 Aug 11:53:00 - [info] [function:Actuators Keyboards] Selected Group: Light
+27 Aug 11:53:01 - [info] [function:Options Keyboard] Selected Actuator: CANCEL
+27 Aug 11:53:05 - [info] [function:History request] Command: /history requested by j4rj4r61nk5
+27 Aug 11:53:05 - [info] [function:Already Sub?] Subscribed
+27 Aug 11:53:05 - [info] [function:Power consumption] Calculated: 0
+27 Aug 11:53:15 - [info] [function:ThingSpeak Payload] channels/1813859/publish --> field1=28&field2=44&field3=100&field4=100&field5=50&field6=42&field7=0&status=MQTTPUBLISH
